@@ -140,7 +140,7 @@ Comparison lists:
 * [Twidere X](https://apps.apple.com/app/twidere-x/id1530314034) ([Website](https://x.twidere.com/) \| [GitHub](https://github.com/TwidereProject/TwidereX-iOS)) - cross-platform, customizable, clean client with plentiful functions for Twitter and Mastodon, *in early stage*
 * [Walleri](https://apps.apple.com/us/app/walleri/id6470121640) ([Mastodon](https://indieapps.space/@walleri)) - Walleri redefines how you interact with online content.
 
-* [Woolly for Mastodon](https://apps.apple.com/us/app/woolly-for-mastodon/id6444360628) ([Mastodon](https://mastodon.social/@mttvll)) - A fast and customizable Mastodon client.
+* [Woolly for Mastodon](https://apps.apple.com/us/app/woolly-for-mastodon/id6444360628) ([Website](https://mvilla.it/) \| [Mastodon](https://mastodon.social/@mttvll)) - A fast and customizable Mastodon client.
 
 ##### Tools (Not full clients) (iOS)
 
