@@ -138,7 +138,6 @@ Comparison lists:
 * [trunks](https://apps.apple.com/us/app/trunks-for-mastodon/id6444749479) ([Mastodon](https://mstdn.social/@trunksapp) \| [Testflight](https://testflight.apple.com/join/g8J05VSB)) - a cross-platform app with rich features
 * [Tusker](https://apps.apple.com/gb/app/tusker/id1498334597) ([Website](https://vaccor.space/tusker/) \| [Git](https://git.shadowfacts.net/shadowfacts/Tusker)) - a flexible client for Mastodon and other compatible services
 * [Tusks](https://apps.apple.com/us/app/tusks-for-mastodon/id6473683937) ([Website](https://thirdculture.app/tusks) \| [Mastodon](https://mas.to/@bardi)) - Tusks makes posting to Mastodon feel like publishing to your blog.
-.
 * [Twidere X](https://apps.apple.com/app/twidere-x/id1530314034) ([Website](https://x.twidere.com/) \| [GitHub](https://github.com/TwidereProject/TwidereX-iOS)) - cross-platform, customizable, clean client with plentiful functions for Twitter and Mastodon, *in early stage*
 * [Walleri](https://apps.apple.com/us/app/walleri/id6470121640) ([Mastodon](https://indieapps.space/@walleri)) - Walleri redefines how you interact with online content.
 
