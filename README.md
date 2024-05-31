@@ -147,6 +147,7 @@ Comparison lists:
 ##### Tools (Not full clients) (iOS)
 
 - [Linky](https://apps.apple.com/app/id438090426) ([Website](https://pragmaticcode.com/linky/) \| [Mastodon](https://mastodon.social/@pragmaticcode)) - lets you easily share webpage links, images and text extracts to Mastodon
+- [TootLater](https://apps.apple.com/us/app/tootlater-mastodon-scheduler/id6476448591) ([Website](https://tootlater.kruschel.dev/)  \| [Mastodon](https://mastodon.social/@mikakruschel)) - Streamlined post planning
 - [Topiary](https://apps.apple.com/us/app/topiary-trim-your-followers/id6446443154) ([Website](https://lightbeamapps.com/topiary/)) - Manage your Mastodon account
 
 
