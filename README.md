@@ -490,6 +490,8 @@ Comparison lists:
 
 * [MastodonKit](https://github.com/MastodonKit/MastodonKit) - a Swift Framework that wraps Mastodon's API 
 
+* [Swinub](https://github.com/noppefoxwolf/Swinub) - A mastodon api library written in swift. 
+
 * [TootSDK](https://github.com/TootSDK/TootSDK) - a Swift package for creating apps that interact with Mastodon, Pleroma and other Fediverse APIs
 
 ### Clojure
