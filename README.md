@@ -391,6 +391,7 @@ Comparison lists:
 * [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
 * [Takahē](https://jointakahe.org/) - an efficient ActivityPub server for microblogging with multiple support for multiple domains
 * [Mitra](https://codeberg.org/silverpill/mitra) - Built on ActivityPub protocol, self-hosted, lightweight.
+* [Hollo](https://github.com/dahlia/hollo) - A federated single-user microblogging software powered by Fedify.
 
 ### Blogging
 
