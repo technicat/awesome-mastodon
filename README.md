@@ -465,6 +465,10 @@ Comparison lists:
 
 * [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for node.js.
 
+### Typescript
+
+* [Fedify](https://github.com/dahlia/fedify) - ActivityPub server framework in TypeScript.
+
 ### PHP
 
 * [ActivityPHP](https://github.com/landrok/activitypub) - PHP implementation of ActivityPub
