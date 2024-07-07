@@ -486,6 +486,8 @@ Comparison lists:
 
 ### Swift
 
+* [Mastodon.Swift](https://github.com/Swiftodon/Mastodon.swift) - A Mastodon API client written in Swift for iOS, iPadOS and macOS. 
+
 * [MastodonKit](https://github.com/MastodonKit/MastodonKit) - a Swift Framework that wraps Mastodon's API 
 
 * [TootSDK](https://github.com/TootSDK/TootSDK) - a Swift package for creating apps that interact with Mastodon, Pleroma and other Fediverse APIs
