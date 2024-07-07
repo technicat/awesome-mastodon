@@ -386,7 +386,9 @@ Comparison lists:
   * [Akkoma](https://akkoma.social/) - a Pleroma fork with more features and a faster pace of development
 * [Misskey](https://misskey-hub.net/en/) - feature-packed microblogging platform; supports reactions to posts
   * [Calckey](https://codeberg.org/calckey/calckey) - fork of Misskey with better UI/UX, security, features, etc
+  * [Firefish](https://firefish.dev/firefish/firefish) - fork of Misskey with Mastodon API compatibility
   * [Foundkey](https://akkoma.dev/FoundKeyGang/FoundKey) - fork of Misskey that improves on maintainability and behaviour, while also bringing in useful features.
+   * [Sharkey](https://activitypub.software/TransFem-org/Sharkey) - fork of Misskey with Mastodon API compatibility
 * [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
 * [NextCloud Social](https://apps.nextcloud.com/apps/social) - Microblogging app for the Nextcloud platform.
 * [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
