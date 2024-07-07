@@ -388,6 +388,7 @@ Comparison lists:
   * [Calckey](https://codeberg.org/calckey/calckey) - fork of Misskey with better UI/UX, security, features, etc
   * [Firefish](https://firefish.dev/firefish/firefish) - fork of Misskey with Mastodon API compatibility
     * [Iceshrimp](https://iceshrimp.dev/iceshrimp/iceshrimp) - forked from Firefish to focus on stability, performance and usability instead of new features
+      * [Catodon](https://codeberg.org/catodon/catodon) - fork of Iceshrimp with UI changes
   * [Foundkey](https://akkoma.dev/FoundKeyGang/FoundKey) - fork of Misskey that improves on maintainability and behaviour, while also bringing in useful features.
    * [Sharkey](https://activitypub.software/TransFem-org/Sharkey) - fork of Misskey with Mastodon API compatibility
 * [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
@@ -397,6 +398,7 @@ Comparison lists:
 * [Mitra](https://codeberg.org/silverpill/mitra) - Built on ActivityPub protocol, self-hosted, lightweight
 * [Hollo](https://github.com/dahlia/hollo) - A federated single-user microblogging software powered by Fedify
 * [Snac](https://codeberg.org/grunfink/snac2) - A simple, minimalistic ActivityPub instance written in portable C
+* [Iceshrimp.NET](https://iceshrimp.dev/iceshrimp/Iceshrimp.NET) - New code base for Iceshrimp with a focus on performance, stability and maintainability 
 
 ### Blogging
 
