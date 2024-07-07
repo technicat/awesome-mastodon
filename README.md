@@ -463,6 +463,8 @@ Comparison lists:
 
 ### Javascript
 
+* [ActivityPods](https://github.com/activitypods/activitypods) - framework to create ActivityPub-compatible apps using SolidPods.
+
 * [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for node.js.
 
 ### Typescript
