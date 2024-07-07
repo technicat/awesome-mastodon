@@ -387,6 +387,7 @@ Comparison lists:
 * [Misskey](https://misskey-hub.net/en/) - feature-packed microblogging platform; supports reactions to posts
   * [Calckey](https://codeberg.org/calckey/calckey) - fork of Misskey with better UI/UX, security, features, etc
   * [Firefish](https://firefish.dev/firefish/firefish) - fork of Misskey with Mastodon API compatibility
+    * [Iceshrimp](https://iceshrimp.dev/iceshrimp/iceshrimp) - forked from Firefish to focus on stability, performance and usability instead of new features
   * [Foundkey](https://akkoma.dev/FoundKeyGang/FoundKey) - fork of Misskey that improves on maintainability and behaviour, while also bringing in useful features.
    * [Sharkey](https://activitypub.software/TransFem-org/Sharkey) - fork of Misskey with Mastodon API compatibility
 * [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
